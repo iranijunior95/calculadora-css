@@ -1,3 +1,7 @@
-# Calculadora CSS
+<h1 aling="center">Calculadora CSS</h1>
 
-- Projeto de uma calculadora desenvolvido para praticar o básico de HTML e CSS.
+### 💻 Sobre o projeto
+
+## 📝 Calculadora CSS - é um projeto desenvolvido para praticar o básico das tecnologias HTML, CSS e JAVASCRIPT.
+
+- Feito com inspiração em um modelo real de uma calculadora, e se adaptando às necessidades do projeto.

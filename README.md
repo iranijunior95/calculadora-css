@@ -11,5 +11,5 @@
 - O layout da aplicação logo a baixo em comparação com o modelo que serviu de inspiração para o projeto.
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/bannerCalc.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/bannerCalc.png">
 </p>

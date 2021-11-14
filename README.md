@@ -18,6 +18,6 @@
 
 - As seguintes ferramentas foram usadas na construção do projeto:
 
-- .[Html].[html]
-- .[Css].[css]
+- HTML
+- CSS
 

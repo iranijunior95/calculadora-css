@@ -20,4 +20,10 @@
 
 - HTML
 - CSS
+- JAVASCRIPT 🚧 Em construção... 🚧
 
+### 📝 Licença
+
+- Fique a vontade para contribuir...
+
+- Feito com ❤️ por Irani Junior 👋🏽

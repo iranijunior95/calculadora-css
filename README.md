@@ -13,3 +13,10 @@
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/bannerCalc.png">
 </p>
+
+### 🛠 Tecnologias
+
+- As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Html][html]
+- [Css][css]
